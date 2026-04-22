@@ -213,9 +213,8 @@ Evaluation in the production system additionally tracks MAPE and win-rate impact
 
 | Property | Value |
 |---|---|
-| Rows | ~65,000~ |
+| Rows | ~65,000 |
 | Columns | 12 |
-| Date range | 2021-10-01 → 2024-07-30 |
 | Unique customers | ~7,000 |
 | Unique product families | 88 |
 | Primary markets | 10 |
